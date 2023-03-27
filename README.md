@@ -1,17 +1,20 @@
-# Nome do projeto
+# Pesquisa Exploratória sobre os potenciais de Rust
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+  O objetivo geral desta pesquisa é analisar  repositórios de aplicações e vagas de tecnologia que utilizam ou solicitam a linguagem, visando avaliar se compensa aprender a linguagem Rust, a partir do posto de vista desenvolvedores de software e estudantes, com base no número de  repositórios do Github que tem dependências de aplicações da linguagem Rust e no número de vagas do LinkedIn que requerem conhecimento na linguagem.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* André Luis da Silva
+* Anna Laura Reis Dornelas Ribeiro
+* Edson Junior Campolina Silva
+* Rodolfo Rocha Rodrigues 
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Gabriel de Oliveira Campos Pacheco
+* Jose Laerte Pires Xavier Junior
+
+
 
 ## Instruções de Replicação/Reprodução
 
