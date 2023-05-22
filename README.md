@@ -16,6 +16,6 @@
 
 
 
-## Instruções de Replicação/Reprodução
+## Link para o Overleaf do trabalho
 
-Apresentar instruções de como o trabalho pode ser replicado/reproduzido.
+https://www.overleaf.com/6365583431xdkrdhshzztq
